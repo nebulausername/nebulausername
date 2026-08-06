@@ -1,7 +1,6 @@
 # Hi, ich bin Darius 👋
 
-Full-Stack Developer aus Deutschland. Ich baue Websites, Shops, Bots und Tools für lokale Unternehmen und eigene Projekte — unter der Marke **Nebula**.
-
+Full-Stack Developer aus Deutschland. Ich baue Websites, Shops, Bots und Tools für lokale Unternehmen und eigene Projekte 
 - 🚀 Aktuell: **[KaufMeineWebsite.DE](https://github.com/nebulausername/KaufMeineWebsite.DE)** — Portfolio & Shop für Websites und kostenlose Templates
 - 🛠️ Baue Next.js-Websites, Kunden-/Admin-Portale und Telegram-WebApps für echte Kunden (Friseure, Steuerberater, Kosmetikstudios, Gastronomie)
 - 🎮 Nebenbei: Minecraft-Server-Tools und Browser-Games
@@ -27,13 +26,6 @@ Full-Stack Developer aus Deutschland. Ich baue Websites, Shops, Bots und Tools f
 | Projekt | Beschreibung |
 |---|---|
 | [**KaufMeineWebsite.DE**](https://github.com/nebulausername/KaufMeineWebsite.DE) | Portfolio + Shop für Websites & kostenlose Templates |
-| [**Nebula.Supply**](https://github.com/nebulausername/Nebula.Supply) | Aktuellstes Nebula-Projekt |
-| [**nebula-order-bot**](https://github.com/nebulausername/nebula-order-bot) | Telegram-WebApp Shop mit Next.js, Prisma & PostgreSQL |
-| [**schmidt-partner-steuerberatung**](https://github.com/nebulausername/schmidt-partner-steuerberatung) | Kanzlei-Website mit Admin-Dashboard & Mandantenportal (Next.js 16, Prisma, NextAuth) |
-| [**FitCoachPro-PersonalTraining**](https://github.com/nebulausername/FitCoachPro-PersonalTraining) | Marketing-Website + Admin-Dashboard + Kundenportal (Next.js 16) |
-| [**labella-aesthetics**](https://github.com/nebulausername/labella-aesthetics) | Zweisprachige Website + Buchungssystem für ein Kosmetikstudio |
-| [**landing-mc-next**](https://github.com/nebulausername/landing-mc-next) | Premium-Landingpage-Template für Minecraft-Server (Next.js, i18n, Live-Serverstatus) |
-| [**totersignal**](https://github.com/nebulausername/totersignal) | Browser-natives Co-op Zombie Wave-Shooter Game (Babylon.js + TypeScript) |
 
 ---
 
