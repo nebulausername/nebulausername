@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="t d">
+  <title id="t">Darius Hofman, full-stack developer</title>
+  <desc id="d">I ship production web apps, shops, bots and games: live and tested.</desc>
+  <defs>
+    <radialGradient id="glut" cx="0.82" cy="0.35" r="0.6">
+      <stop offset="0" stop-color="#e11d48" stop-opacity="0.38"/>
+      <stop offset="0.45" stop-color="#9f1239" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#0a0a0f" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="rot" x1="0" x2="1">
+      <stop offset="0" stop-color="#ef4444"/>
+      <stop offset="1" stop-color="#fb7185"/>
+    </linearGradient>
+    <pattern id="raster" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.045"/>
+    </pattern>
+    <style>
+      .sans { font-family: 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; }
+      @keyframes puls { 0%,100% { opacity: 1 } 50% { opacity: .35 } }
+      .live { animation: puls 2.4s ease-in-out infinite; }
+      .live2 { animation: puls 2.4s ease-in-out .6s infinite; }
+      .live3 { animation: puls 2.4s ease-in-out 1.2s infinite; }
+      @media (prefers-reduced-motion: reduce) { .live, .live2, .live3 { animation: none } }
+    </style>
+  </defs>
+
+  <rect width="1280" height="320" rx="18" fill="#0a0a0f"/>
+  <rect width="1280" height="320" rx="18" fill="url(#raster)"/>
+  <rect width="1280" height="320" rx="18" fill="url(#glut)"/>
+  <rect x="0.5" y="0.5" width="1279" height="319" rx="18" fill="none" stroke="#ffffff" stroke-opacity="0.08"/>
+
+  <!-- links: Name und Satz -->
+  <text x="64" y="84" class="mono" font-size="15" letter-spacing="3" fill="#fb7185">FULL-STACK DEVELOPER · GERMANY</text>
+  <text x="64" y="164" class="sans" font-size="66" font-weight="800" fill="#ffffff" letter-spacing="-1.5">Darius Hofman</text>
+  <rect x="64" y="182" width="88" height="5" rx="2.5" fill="url(#rot)"/>
+  <text x="64" y="228" class="sans" font-size="21" fill="#d4d4d8">I ship production web apps, shops, bots and games.</text>
+  <text x="64" y="258" class="sans" font-size="21" fill="#a1a1aa">Live, tested, bilingual. <tspan fill="#fb7185" font-weight="600">kaufmeinewebsite.de</tspan></text>
+
+  <!-- rechts: Statustafel -->
+  <g transform="translate(846 58)">
+    <rect width="370" height="204" rx="14" fill="#111118" fill-opacity="0.85" stroke="#ffffff" stroke-opacity="0.09"/>
+    <circle cx="22" cy="22" r="5" fill="#ef4444" fill-opacity="0.9"/>
+    <circle cx="40" cy="22" r="5" fill="#f59e0b" fill-opacity="0.9"/>
+    <circle cx="58" cy="22" r="5" fill="#22c55e" fill-opacity="0.9"/>
+    <text x="346" y="27" text-anchor="end" class="mono" font-size="12" fill="#71717a">~/projects</text>
+    <g class="mono" font-size="15">
+      <circle class="live" cx="28" cy="66" r="4.5" fill="#22c55e"/>
+      <text x="44" y="71" fill="#e4e4e7">relais</text><text x="346" y="71" text-anchor="end" fill="#71717a">AI CRM · live</text>
+      <circle class="live2" cx="28" cy="98" r="4.5" fill="#22c55e"/>
+      <text x="44" y="103" fill="#e4e4e7">vault</text><text x="346" y="103" text-anchor="end" fill="#71717a">store · live demo</text>
+      <circle class="live3" cx="28" cy="130" r="4.5" fill="#22c55e"/>
+      <text x="44" y="135" fill="#e4e4e7">fruit-slash</text><text x="346" y="135" text-anchor="end" fill="#71717a">game · playable</text>
+      <circle cx="28" cy="162" r="4.5" fill="#f59e0b"/>
+      <text x="44" y="167" fill="#e4e4e7">nexus</text><text x="346" y="167" text-anchor="end" fill="#71717a">discord · beta 01.10.</text>
+    </g>
+  </g>
+</svg>
