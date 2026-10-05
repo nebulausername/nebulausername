@@ -19,7 +19,7 @@ Every project below is running right now. Click a picture to try it.
 <td width="50%" valign="top">
 <a href="https://kaufmeinewebsite.de/relais/demo?lang=en"><img src="assets/relais.webp" alt="Relais inbox with leads from Instagram and Messenger"></a>
 <br><b>Relais</b>: AI CRM. Leads from Facebook, Instagram and Google Ads in one inbox; the AI answers when no human replies within five minutes, grounded in your knowledge base.
-<br><sub><code>Next.js 16</code> <code>Better Auth</code> <code>Claude API</code> <code>pgvector</code></sub>
+<br><sub><code>Next.js 16</code> <code>Better Auth</code> <code>LLM API</code> <code>pgvector</code></sub>
 <br><a href="https://kaufmeinewebsite.de/relais/demo?lang=en">▶ Live demo, one click</a>
 </td>
 <td width="50%" valign="top">
@@ -96,7 +96,7 @@ Working prototypes. Client work comes first, so these are on hold; each one resu
 - **Tests decide what ships.** Guard tests pin whole classes of bugs, and every guard is made to fail on purpose once before it counts.
 - **Measured in a real browser:** phone widths, keyboard only, the *built* CSS, not just the source.
 - **Bilingual by default** (EN / DE), privacy-aware (GDPR), accessible.
-- **AI pair-programming, openly.** I build with Claude Code; commits it co-wrote say so. Design, review and responsibility stay with me.
+- **AI pair-programming, openly.** I build with an AI coding assistant; commits it co-wrote say so. Design, review and responsibility stay with me.
 
 ### 🔭 Right now
 
@@ -111,7 +111,7 @@ Building **Keel**, an AI SaaS MVP planner: type any product idea, get a scoped p
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
-![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![LLM APIs](https://img.shields.io/badge/LLM_APIs-555555?style=flat-square)
 ![discord.js](https://img.shields.io/badge/discord.js-5865F2?style=flat-square&logo=discord&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![nginx](https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white)
