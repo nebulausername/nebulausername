@@ -16,6 +16,14 @@ Every project below is running right now. Click a picture to try it.
 
 <table>
 <tr>
+<td colspan="2" valign="top">
+<a href="https://kaufmeinewebsite.de/orbital-atlas/"><img src="assets/orbital-atlas.webp" alt="Orbital Atlas: a section through the Earth, a quarter removed, each layer engraved by its state of matter and labelled with depth and how it is known"></a>
+<br><b>Orbital Atlas</b>: an atlas of the solar system, computed rather than drawn. Newtonian N-body orbits from NASA/JPL state vectors (Earth stays within ~1 km of JPL's ephemeris over ten years), a powers-of-ten zoom from the Milky Way down to planetary cores, labelled to-scale cutaways and nearly 25,000 real asteroids on the GPU. Every view says whether it is true scale or illustrative.
+<br><sub><code>TypeScript</code> <code>three.js</code> <code>GLSL</code> <code>Vite</code> <code>NASA/JPL data</code></sub>
+<br><a href="https://kaufmeinewebsite.de/orbital-atlas/">▶ Open the atlas</a> · <a href="https://github.com/nebulausername/orbital-atlas">Source</a>
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://kaufmeinewebsite.de/relais/demo?lang=en"><img src="assets/relais.webp" alt="Relais inbox with leads from Instagram and Messenger"></a>
 <br><b>Relais</b>: AI CRM. Leads from Facebook, Instagram and Google Ads in one inbox; the AI answers when no human replies within five minutes, grounded in your knowledge base.
