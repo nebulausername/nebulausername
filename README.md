@@ -54,10 +54,10 @@ Every project below is running right now. Click a picture to try it.
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://demo.kaufmeinewebsite.de/fruit-slash/"><img src="assets/fruitslash.webp" alt="Fruit Slash start screen with game modes"></a>
-<br><b>Fruit Slash</b>: juicy slice game in the browser. 17 languages, 7 modes, 48 achievements, 1v1 challenges by link.
-<br><sub><code>JavaScript</code> <code>Canvas</code> <code>PWA</code></sub>
-<br><a href="https://demo.kaufmeinewebsite.de/fruit-slash/">▶ Play</a>
+<a href="https://kaufmeinewebsite.de/mundo/"><img src="assets/mundo.webp" alt="Mundo start page: 'Every voice counts.' above five soft 3D characters"></a>
+<br><b>Mundo</b>: pre-seed concept for a fair voice-data app. Five soft 3D characters react to your voice, and a read-aloud demo measures your take, all inside the browser: nothing is uploaded. Every market figure is sourced; users and revenue are honestly zero.
+<br><sub><code>React Three Fiber</code> <code>Web Audio</code> <code>GSAP</code></sub>
+<br><a href="https://kaufmeinewebsite.de/mundo/">▶ Try the demo</a> · <a href="https://github.com/nebulausername/mundo">Source</a>
 </td>
 <td width="50%" valign="top">
 <a href="https://kaufmeinewebsite.de/stiloase"><img src="assets/stiloase.webp" alt="Stiloase vintage shop front"></a>
@@ -68,7 +68,7 @@ Every project below is running right now. Click a picture to try it.
 </tr>
 </table>
 
-<sub>Also live: <a href="https://kaufmeinewebsite.de/yoursite">RECEIPTS</a> · <a href="https://kaufmeinewebsite.de/videos">Kopfkino</a> ·
+<sub>Also live: <a href="https://demo.kaufmeinewebsite.de/fruit-slash/">Fruit Slash</a> · <a href="https://kaufmeinewebsite.de/yoursite">RECEIPTS</a> · <a href="https://kaufmeinewebsite.de/videos">Kopfkino</a> ·
 and <a href="https://github.com/nebulausername/kaufmeinewebsite">the platform that hosts them all</a>.</sub>
 
 ### ⏸️ Built, paused until funded
